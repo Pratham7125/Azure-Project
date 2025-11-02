@@ -1,0 +1,9 @@
+{
+	"name": "pcfactoryazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df717c9f-3ac4-4354-9631-caa8ff1b17bb",
+		"tenantId": "28c45093-34d9-422b-b3cf-97504bb7d9ca"
+	}
+}
